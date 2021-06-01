@@ -2,6 +2,7 @@
 
 This is a brief overview of the repo.
 
+To sign up for DevNet: [Start Now](http://cs.co/startnowduan)
 ___
 
 ## Why repo
@@ -13,6 +14,8 @@ ___
 ## How To Get Started
 
 This sections provides the steps to execute the repo.
+
+![image](./images/me.png "Add images in the images folder")
 
 ## Notes
 
