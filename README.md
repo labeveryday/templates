@@ -1,4 +1,4 @@
-# templates
+# README Markdown Template
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/labeveryday?label=Follow)](https://twitter.com/labeveryday)
 [![Linkedin: duanlightfoot](https://img.shields.io/badge/-duan%20lightfoot-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/duanlightfoot/)](https://www.linkedin.com/in/duanlightfoot/)
@@ -21,15 +21,15 @@ ___
 
 ## Why repo
 
-```bash
-This section explains the why.
-```
+`This section explains the why.`
 
 ___
 
 ## How To Get Started
 
 This sections provides the steps to execute the repo.
+
+Below is  **Sample Python Code**
 
 ```python
 # Sample python code
@@ -43,6 +43,13 @@ print_hello()
 ## Notes
 
 Add any extra notes or need to know information here.
+
+Here's a sample table:
+
+| Commands                                          | Description                                               |
+| -------------                                     | :-------------:                                           |
+| pwd                                               | Print current working directory
+| whoami                                            | To verify which user you're logged in as
 
 ___
 
